@@ -26,7 +26,7 @@ url: "https://jl240.github.io" #  change this to "https://<your-github-username>
 image: /assets/images/headerimg.jpg
 author: "Johnny Lam"
 copyright: # Your initials or name or what you want the copyright to be.  Leave empty for no copyright
-footer_description: 
+footer_description: "<footer>"
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
