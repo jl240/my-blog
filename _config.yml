@@ -31,6 +31,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username: 
